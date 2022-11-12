@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Control_Flow
+build_property.ProjectDir = C:\Users\arman\OneDrive\Documentos\c#\01-course\01-beginner\11-homework\01-Control-Flow\Control-Flow\Control-Flow\
